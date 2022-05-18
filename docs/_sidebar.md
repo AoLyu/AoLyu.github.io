@@ -33,6 +33,8 @@
       
       - [异步编程](/md/idea-plugin/2022-04-19-promise-async-await异步编程.md)
       - [vuex学习](/md/idea-plugin/2022-04-20-vuex学习.md)
+      - [URL传参是URL](/md/idea-plugin/2022-05-17-微信小程序URL传参是URL.md)
+      - [父组件异步更新数据，子组件未更新](/md/idea-plugin/2022-05-18-父组件异步更新数据子组件未同步.md)
     
    - 第9章：操作系统
        
@@ -50,7 +52,6 @@
       
       - [极差太大怎么制表](/md/idea-plugin/2022-03-16-纵坐标极差太大怎么做表.md)
       - [win10任务栏经常卡死问题](/md/idea-plugin/2022-05-01-win10任务栏卡死.md)
-      - [URL传参是URL](/md/idea-plugin/2022-05-17-微信小程序URL传参是URL.md)
       
    - 第100章：基础功能
    
