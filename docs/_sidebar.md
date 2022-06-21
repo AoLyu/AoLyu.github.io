@@ -46,9 +46,37 @@
       
    - 第11章：软件设计
       
-      - [设计原则](/md/idea-plugin/2022-03-07-软件设计七大原则.md)   
+      - [设计原则](/md/idea-plugin/2022-03-07-软件设计七大原则.md)  
+      - [UML介绍](/md/idea-plugin/2022-06-06-UML介绍.md)   
+      - [开闭原则](/md/idea-plugin/2022-06-07-开闭原则.md)
+      - [依赖倒置原则](/md/idea-plugin/2022-06-07-依赖倒置原则.md)
+      - [单一职责原则](/md/idea-plugin/2022-06-07-单一职责原则.md)
+      - [接口隔离原则](/md/idea-plugin/2022-06-07-接口隔离原则.md)
+      - [迪米特原则](/md/idea-plugin/2022-06-07-迪米特原则.md)
+      - [简单工厂模式](/md/idea-plugin/2022-06-07-简单工厂模式.md)  
+      - [工厂方法模式](/md/idea-plugin/2022-06-07-工厂方法模式.md)   
+      - [抽象工厂方法模式](/md/idea-plugin/2022-06-07-抽象工厂方法.md)
+      - [建造者模式](/md/idea-plugin/2022-06-08-建造者模式.md)
+      - [单例模式](/md/idea-plugin/2022-06-09-单例模式.md)
+      - [原型模式](/md/idea-plugin/2022-06-21-原型模式.md)
+      - [外观模式](/md/idea-plugin/2022-06-21-外观模式.md)
+      - [装饰者模式](/md/idea-plugin/2022-06-21-装饰者模式.md)
       
-   - 第12章：其他问题汇总
+   - 第12章：WPF  
+   
+      - [WPF容器](/md/idea-plugin/2022-06-09-WPF容器.md)
+      - [WPF样式](/md/idea-plugin/2022-06-10-WPF样式.md)
+      - [WPF控件模板](/md/idea-plugin/2022-06-10-WPF控件模板.md)
+         
+   - 第12章：DevOps
+      - [Docker搭建MySQL集群](/md/idea-plugin/2022-06-05-Docker搭建MySQL集群.md)
+      - [Docker搭建Redis集群](/md/idea-plugin/2022-06-05-Docker搭建Redis集群.md)
+      - [后端部署与负载均衡](/md/idea-plugin/2022-06-05-后端项目部署与负载均衡.md) 
+      - [swarm创建集群](/md/idea-plugin/2022-06-06-swarm创建集群.md) 
+      - [云端搭建分布式集群环境](/md/idea-plugin/2022-06-06-云端搭建分布式集群环境.md)
+      
+      
+   - 第99章：其他问题汇总
       
       - [极差太大怎么制表](/md/idea-plugin/2022-03-16-纵坐标极差太大怎么做表.md)
       - [win10任务栏经常卡死问题](/md/idea-plugin/2022-05-01-win10任务栏卡死.md)
