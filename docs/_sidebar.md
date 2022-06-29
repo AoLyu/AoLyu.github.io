@@ -15,17 +15,21 @@
        
       
    - 第6章：框架基础
-             
+   
+     - [若依登录逻辑](/md/idea-plugin/2022-06-29-若依登录逻辑.md) 
+     - [若依整合微信登录逻辑](/md/idea-plugin/2022-05-18-父组件异步更新数据子组件未同步.md)  
+          
    
    - 第7章：消息队列
        
       
-   - 第8章：Vue相关
+   - 第8章：前端相关
       
       - [异步编程](/md/idea-plugin/2022-04-19-promise-async-await异步编程.md)
       - [vuex学习](/md/idea-plugin/2022-04-20-vuex学习.md)
       - [URL传参是URL](/md/idea-plugin/2022-05-17-微信小程序URL传参是URL.md)
       - [父组件异步更新数据，子组件未更新](/md/idea-plugin/2022-05-18-父组件异步更新数据子组件未同步.md)
+      - [scss快速嵌套样式生成](/md/idea-plugin/2022-05-18-父组件异步更新数据子组件未同步.md)
     
    - 第9章：操作系统
        
