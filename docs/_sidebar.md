@@ -58,6 +58,18 @@
       - [适配器模式](/md/idea-plugin/2022-06-22-享元模式.md)
       - [组合模式](/md/idea-plugin/2022-06-22-组合模式.md)
       - [桥接模式](/md/idea-plugin/2022-06-22-桥接模式.md)
+      - [代理模式](/md/idea-plugin/2022-07-01-代理模式.md)
+      - [模板方法模式](/md/idea-plugin/2022-07-02-模板方法模式.md)
+      - [策略模式](/md/idea-plugin/2022-07-02-策略模式.md)
+      - [迭代器模式](/md/idea-plugin/2022-07-02-迭代器模式.md)
+      - [观察者模式](/md/idea-plugin/2022-07-02-观察者模式.md)
+      - [解释器模式](/md/idea-plugin/2022-07-03-解释器模式.md)
+      - [备忘录模式](/md/idea-plugin/2022-07-03-备忘录模式.md)
+      - [命令模式](/md/idea-plugin/2022-07-03-命令模式.md)
+      - [中介者模式](/md/idea-plugin/2022-07-03-中介者模式.md)
+      - [责任链模式](/md/idea-plugin/2022-07-03-责任链模式.md)
+      - [访问者模式](/md/idea-plugin/2022-07-03-访问者模式.md)
+      - [状态模式](/md/idea-plugin/2022-07-03-状态模式.md)
       
    - 第12章：WPF  
    
