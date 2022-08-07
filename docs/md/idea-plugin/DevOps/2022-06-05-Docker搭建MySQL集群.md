@@ -8,7 +8,7 @@
 
 #### 常见方案：
 
-![](../../assets/img/2022-06-05/fast_22-33-56.png)
+![](../../../assets/img/2022-06-05/fast_22-33-56.png)
 
 > 重要数据建议采用PXC方案, 任一节点可读写
 >
@@ -75,7 +75,7 @@ docker run -d -p 3306:3306
 
 使用Haproxy，Nginx 刚刚支持 TCP/IP ，可能存在问题， lvs 不支持Docker容器安装
 
-![](../../assets/img/2022-06-05/fast_22-57-12.png)
+![](../../../assets/img/2022-06-05/fast_22-57-12.png)
 
 **haproxy**
 
@@ -108,7 +108,7 @@ listen proxy-mysql
   #使用keepalive检测死链
 ```
 
-![](../../assets/img/2022-06-05/PotPlayerMini64_FXbEXjeN99.png)
+![](../../../assets/img/2022-06-05/PotPlayerMini64_FXbEXjeN99.png)
 
  8888为系统管理端口
 
@@ -118,7 +118,7 @@ listen proxy-mysql
 
   关键技术： **虚拟IP地址**
 
-![](../../assets/img/2022-06-05/Very_21-14-27.jpg)
+![](../../../assets/img/2022-06-05/Very_21-14-27.jpg)
 
  需要借助keepalived软件
 
@@ -126,7 +126,7 @@ listen proxy-mysql
 
 #### 双机热备方案 （冗余设计，高可用）
 
-![](../../assets/img/2022-06-05/fast_21-27-58.png)
+![](../../../assets/img/2022-06-05/fast_21-27-58.png)
 
 #### Docker容器 keepalived配置文件
 

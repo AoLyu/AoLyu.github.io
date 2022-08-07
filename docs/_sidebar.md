@@ -1,7 +1,7 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
    - 第1章：Java基础
-       - [空指针和异常避坑](/md/idea-plugin/2022-07-07-Java空指针和异常.md)
+       - [空指针和异常避坑](/md/idea-plugin/java/2022-07-07-Java空指针和异常.md)
        
    - 第2章：JVM基础    
 
@@ -19,7 +19,8 @@
      - [若依登录逻辑](/md/idea-plugin/RuoYi/2022-06-29-若依登录逻辑.md) 
      - [若依整合微信登录逻辑](/md/idea-plugin/RuoYi/2022-05-18-父组件异步更新数据子组件未同步.md)  
      - [若依无token接口403](/md/idea-plugin/RuoYi/2022-07-29-若依由于token的问题接口403.md)  
-     - [springboot接收LocalDate等参数](/md/idea-plugin/2022-07-20-springboot前端传参是LocalDate类型解析.md)
+     - [springboot接收LocalDate等参数](/md/idea-plugin/springboot/2022-07-20-springboot前端传参是LocalDate类型解析.md)
+     - [BeanFactory和FactoryBean](/md/idea-plugin/springboot/2022-03-05-BeanFactory与FactoryBean的区别.md)
           
    - 第7章：消息队列
        
@@ -85,6 +86,7 @@
       - [后端部署与负载均衡](/md/idea-plugin/DevOps/2022-06-05-后端项目部署与负载均衡.md) 
       - [swarm创建集群](/md/idea-plugin/DevOps/2022-06-06-swarm创建集群.md) 
       - [云端搭建分布式集群环境](/md/idea-plugin/DevOps/2022-06-06-云端搭建分布式集群环境.md)
+      - [rz_sz远程服务器收传文件](/md/idea-plugin/DevOps/2022-03-09-rz_sz远程服务器收传文件.md)
       
    - 第14章：Qt
    
@@ -103,7 +105,7 @@
      
    - 第99章：其他问题汇总
       
-      - [极差太大怎么制表](/md/idea-plugin/2022-03-16-纵坐标极差太大怎么做表.md)
-      - [win10任务栏经常卡死问题](/md/idea-plugin/2022-05-01-win10任务栏卡死.md)
+      - [极差太大怎么制表](/md/idea-plugin/others/2022-03-16-纵坐标极差太大怎么做表.md)
+      - [win10任务栏经常卡死问题](/md/idea-plugin/others/2022-05-01-win10任务栏卡死.md)
       
 
