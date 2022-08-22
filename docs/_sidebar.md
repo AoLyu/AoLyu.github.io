@@ -1,17 +1,23 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
    - 第1章：Java基础
+   
        - [空指针和异常避坑](/md/idea-plugin/java/2022-07-07-Java空指针和异常.md)
        
    - 第2章：JVM基础    
+   
+   
 
    - 第3章：JMM基础            
 
 
+
    - 第4章：MySQL基础
+   
        
           
    - 第5章：Redis基础
+       
        
       
    - 第6章：框架基础
@@ -36,8 +42,10 @@
     
    - 第9章：操作系统
        
+       
       
    - 第10章：计算机网络
+            
             
       
    - 第11章：软件设计
@@ -117,7 +125,8 @@
      - [C++程序的生前死后](/md/idea-plugin/CPP/2022-08-20-C++程序的生前死后.md)
      - [C++面向对象高级](/md/idea-plugin/CPP/2022-08-20-C++程序的生前死后.md)
    
-      - 第17章：CG
+   - 第17章：CG
+      
      - [Overview of Computer Graphics](/md/idea-plugin/CG/Overview of Computer Graphics.md)
      
    - 第99章：其他问题汇总
