@@ -127,7 +127,15 @@
    
    - 第17章：CG
       
-     - [Overview of Computer Graphics](/md/idea-plugin/CG/Overview of Computer Graphics.md)
+     - [Overview of Computer Graphics](/md/idea-plugin/CG/2022-08-21-Overview-of-Computer-Graphics.md)
+     - [Review of linear Algebra](/md/idea-plugin/CG/2022-08-22-Review-of-linear-Algebra.md)
+     - [Rasterization1](/md/idea-plugin/CG/2022-08-23-Rasterization-1.md)
+     - [Rasterization2](/md/idea-plugin/CG/2022-08-23-Rasterization-2.md)
+     - [Transformation](/md/idea-plugin/CG/2022-08-23-Transformation.md)
+     - [Transformation Cont](/md/idea-plugin/CG/2022-08-23-Transformation-Cont.md)
+     - [Shading 1](/md/idea-plugin/CG/2022-08-25-Shading-1.md)
+     - [Shading 2](/md/idea-plugin/CG/2022-08-25-Shading-2.md)
+     - [Shading 3](/md/idea-plugin/CG/2022-08-25-Shading-3.md)
      
    - 第99章：其他问题汇总
       
