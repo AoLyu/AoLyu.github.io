@@ -152,7 +152,7 @@ Use 4×4 matrices for affine transformations
 
 <img src="F:\code_reference\AoLyu.github.io\docs\assets\img\2022-08-23\fast_01-56-39.png" style="zoom:50%;" />
 
-<img src="F:\code_reference\AoLyu.github.io\docs\assets\img\2022-08-23\fast_01-58-44.png" style="zoom:50%;" />
+
 
 
 
