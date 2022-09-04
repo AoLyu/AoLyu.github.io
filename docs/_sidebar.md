@@ -136,6 +136,18 @@
      - [Shading 1](/md/idea-plugin/CG/2022-08-25-Shading-1.md)
      - [Shading 2](/md/idea-plugin/CG/2022-08-25-Shading-2.md)
      - [Shading 3](/md/idea-plugin/CG/2022-08-25-Shading-3.md)
+     - [Geometry 1](/md/idea-plugin/CG/2022-08-27-Geometry-1.md)
+     - [Geometry 2](/md/idea-plugin/CG/2022-08-27-Geometry-2.md)
+     - [Geometry 3](/md/idea-plugin/CG/2022-08-27-Geometry-3.md)
+     - [Raytracing 1](/md/idea-plugin/CG/2022-08-27-Raytracing-1.md)
+     - [Raytracing 2](/md/idea-plugin/CG/2022-08-27-Raytracing-2.md)
+     - [Raytracing 3](/md/idea-plugin/CG/2022-08-27-Raytracing-3.md)
+     - [Raytracing 4](/md/idea-plugin/CG/2022-08-30-Raytracing-4.md)
+     - [Advanced-Topics-in-Rendering](/md/idea-plugin/CG/2022-08-31-Advanced-Topics-in-Rendering.md)
+     - [Materials-and-Appearances](/md/idea-plugin/CG/2022-08-31-Materials-and-Appearances.md)
+     - [Cameras-Lenses-and-Light-Fileds](docs/md/idea-plugin/CG/2022-09-03-Cameras-Lenses-and-Light-Fileds.md)
+     - [Color-and-Perception](/md/idea-plugin/CG/2022-09-03-Color-and-Perception.md)
+     
      
    - 第99章：其他问题汇总
       
