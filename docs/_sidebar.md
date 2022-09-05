@@ -147,7 +147,8 @@
      - [Materials-and-Appearances](/md/idea-plugin/CG/2022-08-31-Materials-and-Appearances.md)
      - [Cameras-Lenses-and-Light-Fileds](docs/md/idea-plugin/CG/2022-09-03-Cameras-Lenses-and-Light-Fileds.md)
      - [Color-and-Perception](/md/idea-plugin/CG/2022-09-03-Color-and-Perception.md)
-     
+     - [Animation](/md/idea-plugin/CG/2022-09-04-Animation.md)
+     - [Animation Cont](/md/idea-plugin/CG/2022-09-04-Animation Cont.md)
      
    - 第99章：其他问题汇总
       
