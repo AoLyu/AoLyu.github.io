@@ -14,8 +14,18 @@
 
    - 第4章：MySQL基础
    
+       - [一个SQL语句的执行](/md/idea-plugin/mysql/2022-08-07-一个SQL语句如何执行.md)
+       - [如何建表更符合业务](/md/idea-plugin/mysql/2022-08-08-如何建表更符合业务.md)
+       - [怎么查询速度更快](/md/idea-plugin/mysql/2022-08-10-怎么查询速度更快.md)
+       - [怎么处理数据更新](/md/idea-plugin/mysql/2022-09-17-怎么处理数据更新.md)           
+       - [ORM框架](/md/idea-plugin/mysql/2022-09-18-ORM框架.md)  
+       - [如何解决数据库超大容量不够问题](/md/idea-plugin/mysql/2022-09-18-如何解决数据库超大容量不够问题.md)  
+       - [怎么给数据上保险](/md/idea-plugin/mysql/2022-09-18-怎么给数据上保险.md)  
+       - [搭建“三高”架构的基础](/md/idea-plugin/mysql/2022-09-18-搭建“三高”架构的基础.md)  
+       - [未来数据库是怎么样的.md](/md/idea-plugin/mysql/2022-09-18-未来数据库是怎么样的.md)  
        
-          
+       
+        
    - 第5章：Redis基础
        
        
