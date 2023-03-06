@@ -138,6 +138,9 @@
      - [环境和周边系统](/md/idea-plugin/DDD/2022-08-07-环境和周边系统说明.md)
      - [从单体到微服务](/md/idea-plugin/DDD/2022-08-07-DDD从单体到微服务.md)
      
+   - 第12章：Git
+   
+     - [port 443: Connection refused](/md/idea-plugin/Git/2023-03-06-port_443_Connection refused问题.md)
      
    - 第99章：其他问题汇总
       
