@@ -26,7 +26,7 @@ HTTPS = HTTP + TLS / SSL
 
 HTTPS基本原理
 
-![](F:\code_reference\AoLyu.github.io\docs\assets\img\2022-09-25\fast_17-56-37.png)
+![](../../../assets/img/2022-09-25/fast_17-56-37.png)
 
 
 
@@ -46,13 +46,13 @@ HTTPS基本原理
 
 #### Mediasoup Demo分析
 
-![](F:\code_reference\AoLyu.github.io\docs\assets\img\2022-09-25\fast_18-06-40.png)
+![](../../../assets/img/2022-09-25/fast_18-06-40.png)
 
 
 
 ####  Demo目录的作用
 
-![](F:\code_reference\AoLyu.github.io\docs\assets\img\2022-09-25\fast_18-12-56.png)
+![](../../../assets/img/2022-09-25/fast_18-12-56.png)
 
 
 
